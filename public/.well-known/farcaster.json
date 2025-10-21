@@ -1,0 +1,36 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Open Agent Builder",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://app-acf218de-mm8y.vercel.app",
+    "imageUrl": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/image.png",
+    "splashImageUrl": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "webhookUrl": "https://app-acf218de-mm8y.vercel.app/api/webhook",
+    "subtitle": "Built with Zara",
+    "description": "Open Agent Builder is a Base Mini App built with Zara.",
+    "screenshotUrls": [
+      "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/screenshot1.png",
+      "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/screenshot2.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "heroImageUrl": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/hero.png",
+    "tagline": "Open Agent Builder",
+    "buttonTitle": "Open mini app",
+    "ogTitle": "Open Agent Builder",
+    "ogDescription": "Open Agent Builder is a Base Mini App built with Zara.",
+    "ogImageUrl": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app/og-image.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+Open%20Agent%20Builder+at+https%3A%2F%2F8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app"
+  }
+}

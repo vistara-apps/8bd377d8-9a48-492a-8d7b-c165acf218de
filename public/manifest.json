@@ -1,0 +1,14 @@
+{
+  "name": "Open Agent Builder",
+  "description": "Open Agent Builder is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app",
+  "properties": {
+    "app": {
+      "name": "Open Agent Builder",
+      "description": "Open Agent Builder is a Base Mini App built with Zara.",
+      "url": "https://8bd377d8-9a48-492a-8d7b-c165acf218de.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
