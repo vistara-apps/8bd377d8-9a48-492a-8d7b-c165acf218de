@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJvcGVuLWFnZW50LWJ1aWxkZXIuY29tIn0",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Open Agent Builder",
+    "homeUrl": "https://open-agent-builder.com",
+    "iconUrl": "https://open-agent-builder.com/icon.png",
+    "splashImageUrl": "https://open-agent-builder.com/splash.png",
+    "splashBackgroundColor": "#0a1628",
+    "webhookUrl": "https://open-agent-builder.com/api/webhook",
+    "subtitle": "Visual AI Agent Workflows",
+    "description": "Build, test, and deploy AI agent workflows visually. No code required. Professional tools for rapid AI development.",
+    "screenshotUrls": [
+      "https://open-agent-builder.com/screenshot1.png",
+      "https://open-agent-builder.com/screenshot2.png",
+      "https://open-agent-builder.com/screenshot3.png"
+    ],
+    "primaryCategory": "productivity",
+    "tags": ["ai", "automation", "no-code", "agents", "workflow"],
+    "heroImageUrl": "https://open-agent-builder.com/hero.png",
+    "tagline": "Build AI agents visually",
+    "ogTitle": "Open Agent Builder - Visual AI Agent Workflows",
+    "ogDescription": "Design, test, and deploy powerful AI agent workflows without writing code.",
+    "ogImageUrl": "https://open-agent-builder.com/og.png"
+  }
+}
